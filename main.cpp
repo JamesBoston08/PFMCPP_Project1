@@ -56,9 +56,9 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 1:    the swimmer dives into water
 swimmer.dive();
 //  action 2:    the swimmer does the backstroke
-swimmer.backstroke();
-//  action 3:    the swimmer does breaststroke
-swimmer.breaststroke();
+swimmer.doesBackStroke();
+//  action 3:    the swimmer does the breaststroke
+swimmer.doesBreastStroke();
 //  2)
 //  Noun:        radio
 //  action 1:    the radio plays the cassette
@@ -124,13 +124,13 @@ storeClerk.countChange();
 //  action 3:    the store clerk gives change to customer
 storeClerk.giveChange();
 //  10)          
-//  Noun:        elevator
-//  action 1:    the elevator goes up
-elevator.goUp();
-//  action 2:    the elevator goes down
-elevtor.goDown();
-//  action 3:    the elevator stops
-elevator.stop();
+//  Noun:        point guard
+//  action 1:    the point guard passes the ball
+pointGuard.passBall();
+//  action 2:    the point guard steals the ball
+pointGuard.stealBall();
+//  action 3:    the point guard shoots the ball
+pointGuard.shootBall();
 
 
 #endif
