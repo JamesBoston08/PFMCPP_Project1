@@ -51,86 +51,86 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
-//  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  1)          
+//  Noun:        swimmer
+//  action 1:    the swimmer dives into water
+swimmer.dive();
+//  action 2:    the swimmer does the backstroke
+swimmer.doesBackStroke();
+//  action 3:    the swimmer does the breaststroke
+swimmer.doesBreastStroke();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        radio
+//  action 1:    the radio plays the cassette
+radio.playCassette();
+//  action 2:    the radio plays the CD
+radio.playCD();
+//  action 3:    the radio plays the mp3 file
+radio.playMP3();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        traffic light
+//  action 1:    the traffic light turns red
+trafficLight.turnRed();
+//  action 2:    the traffic light turns yellow
+trafficLight.turnYellow();
+//  action 3:    the traffic light turns green
+trafficLight.turnGreen();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        lion
+//  action 1:    the lion hunts 
+lion.hunt();
+//  action 2:    the lion eats
+lion.eats();
+//  action 3:    the lion roars
+lion.roar();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog bites
+dog.bite();
+//  action 3:    the dog sleeps
+dog.sleep();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        quarterback
+//  action 1:    the quarterback throws the ball
+quarterback.throwBall();
+//  action 2:    the quarterback fumbles the ball
+quarterback.fumbleBall();
+//  action 3:    the quarterback runs with ball
+quarterback.runBall();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        pitcher
+//  action 1:    the pitcher throws fastball
+pitcher.throwFastball();
+//  action 2:    the pitcher throws curveball
+pitcher.throwCurveball();
+//  action 3:    the pitcher throws changeup
+pitcher.throwChangeup();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        jukebox 
+//  action 1:    the jukebox accepts money
+jukebox.acceptMoney();
+//  action 2:    the jukebox accepts song selection
+jukebox.acceptSongSelection();
+//  action 3:    the jukebox plays song
+jukebox.playSong();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        store clerk
+//  action 1:    the store clerk accepts money
+storeClerk.acceptMoney();
+//  action 2:    the store clerk counts change
+storeClerk.countChange();
+//  action 3:    the store clerk gives change to customer
+storeClerk.giveChange();
+//  10)          
+//  Noun:        point guard
+//  action 1:    the point guard passes the ball
+pointGuard.passBall();
+//  action 2:    the point guard steals the ball
+pointGuard.stealBall();
+//  action 3:    the point guard shoots the ball
+pointGuard.shootBall();
 
 
 #endif
